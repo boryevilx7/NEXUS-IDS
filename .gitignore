@@ -1,0 +1,36 @@
+# Node / frontend
+node_modules/
+dist/
+vite.svg
+nids/node_modules/
+nids/dist/
+
+# Python / backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+backend/__pycache__/
+
+# Logs and generated data
+*.log
+backend/*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+backend/.env
+backend/.env.local
+nids/.env
+nids/.env.local
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
