@@ -107,6 +107,3 @@ python app.py
 - If no alerts appear, verify that `backend/eve.json` contains Suricata EVE JSON entries or generate demo data first.
 - If dependencies fail to install, confirm your Python and Node.js versions meet the prerequisites.
 
-## License
-
-Add your preferred license before publishing publicly on GitHub.
