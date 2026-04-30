@@ -1,4 +1,4 @@
-# NEXUS IDS
+# NEXUS IDS BY USING SURICATA
 
 NEXUS IDS is a real-time network intrusion detection dashboard built for Suricata EVE JSON alerts. It combines a Flask backend that tails and classifies alerts with a React + Vite frontend that visualizes security activity in a modern dashboard.
 
